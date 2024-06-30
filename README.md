@@ -24,7 +24,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" background="7f3ace" src="[(https://profile-counter.glitch.me/%7BinimizadeNX%7D/count.svg)]" /></p> 
+<p align="center"><img align="center" background="7f3ace" src="https://profile-counter.glitch.me/%7BinimizadeNX%7D/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=footer"/>
