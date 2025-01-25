@@ -17,9 +17,9 @@
 
  <br/>
   
-  <h3>Contact 📞</h3> 
+  <h3>Socials 📞</h3> 
 <div> 
-  <a href="https://instagram.com/InimizadeNX" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br><br><br> 
+  <a href="https://instagram.com/KuramiDev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br><br><br> 
 </div>
 
   <div align="center">
