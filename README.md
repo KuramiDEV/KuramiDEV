@@ -10,9 +10,9 @@
    🏡 I am from Brazil<br>
 <br>
  ### Experience 💼
- 🔴 Discord Bot Developer </b> ( May 2023 - Dec 2024 )<br>
+ 🔴 Discord Bot Developer </b> ( May 2023 - Currently )<br>
  🟢 SilverBullet Configs <b> ( Jan 2024 - Jun 2024 )<br>
- ⚪ Html and Css Developer </b> ( Jan 2024 - currently ) <br>
+ ⚪ Html and Css Developer </b> ( Jan 2024 - Currently ) <br>
  🔵 Py and Js Developer </b>( Dec 2023 - currently ) <br>
 
  <br/>
