@@ -11,9 +11,9 @@
 <br>
  ### Experience 💼
  🔴 Discord Bot Developer </b> ( May 2023 - Currently )<br>
- 🟢 SilverBullet Configs <b> ( Jan 2024 - Jun 2024 )<br>
- ⚪ Html and Css Developer </b> ( Jan 2024 - Currently ) <br>
- 🔵 Py and Js Developer </b>( Dec 2023 - currently ) <br>
+ 🟢 SilverBullet Configs <b>( Jan 2024 - Jun 2024 )</b><br>
+ ⚪ Html and Css Developer <b> ( Jan 2024 - Currently )</b> <br>
+ 🔵 Py and Js Developer <b>( Dec 2023 - currently )</b> <br>
 
  <br/>
   
