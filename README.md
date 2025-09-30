@@ -5,7 +5,7 @@
 github.com/KuramiDev
 discord   $  @kurami.py
 Owner of  $  Cyber Community
-Web $ [https://glok.cc/](https://discord.gg/x6hhp3Azde)
+Web $ https://discord.gg/x6hhp3Azde
 ```
 &zwnj; 
 &zwnj; 
