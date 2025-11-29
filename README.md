@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&lines=%E1%B4%BF%E1%B4%BC%E1%B4%BC%E1%B5%80@Kurami+|+KuramiDev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&lines=Kurami.cpp+|+KuramiDev)](https://git.io/typing-svg)
 <img align="left" src="https://i.imgur.com/dgMBUgw.png" width="147"/> 
 
 ```csharp
